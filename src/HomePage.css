@@ -1,0 +1,31 @@
+.mainImage {
+    padding: 10px;
+    /* height: 600px; */
+    width: 100%;
+}
+
+.containerText {
+    position: relative;
+    margin: 0 auto;
+}
+
+.containerText .name {
+    position: absolute;
+    opacity: 0;
+    top: 75%;
+    background: rgb(0, 0, 0);
+    /* Fallback color */
+    background: rgba(0, 0, 0, 0.5);
+    /* Black background with 0.5 opacity */
+    color: white;
+    width: 100%;
+    padding: 10px;
+}
+
+.containerText:hover .name {
+    opacity: 1;
+}
+
+.name {
+    transition: 0.75s ease;
+}

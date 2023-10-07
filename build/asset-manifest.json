@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.482a5c94.css",
+    "main.js": "/static/js/main.358ee985.js",
+    "static/media/instagram.png": "/static/media/instagram.6b2a5690515d60a0f805.png",
+    "static/media/facebook.png": "/static/media/facebook.c9b83405dc9c1c9dde55.png",
+    "static/media/deakin.jpg": "/static/media/deakin.e2e2f98fb5d3145e9d82.jpg",
+    "index.html": "/index.html",
+    "main.482a5c94.css.map": "/static/css/main.482a5c94.css.map",
+    "main.358ee985.js.map": "/static/js/main.358ee985.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.482a5c94.css",
+    "static/js/main.358ee985.js"
+  ]
+}
